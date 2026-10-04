@@ -1,0 +1,8 @@
+common_packages:
+  - curl
+  - vim
+  - htop
+  - git
+  - chrony
+common_timezone: Europe/Kyiv
+common_upgrade_packages: true
